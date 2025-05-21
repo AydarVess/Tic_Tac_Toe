@@ -1,0 +1,1 @@
+body{font-family:sans-serif;text-align:center}.game__board{display:grid;align-content:center;justify-content:center;grid-template-columns:repeat(3,100px);margin:20px auto}.game__board-cell{width:100px;height:100px;border:1px solid #aaa;font-size:2em;display:flex;justify-content:center;align-items:center;cursor:pointer}.game__status{margin-top:10px}
